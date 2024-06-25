@@ -11,7 +11,7 @@ Here's an example of an annotated image with detected sign language gesture:
 
 1. **Clone the repository**:
     ```sh
-    git clone [https://github.com/yourusername/sign-language-converter.git](https://github.com/KrishnaPaliwal264/Sign_Language_Converter.git
+    git clone https://github.com/yourusername/sign-language-converter.git](https://github.com/KrishnaPaliwal264/Sign_Language_Converter.git
     cd sign-language-converter
     ```
 
