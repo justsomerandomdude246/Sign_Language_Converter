@@ -9,11 +9,12 @@ body {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: auto;
   margin: 0 auto;
-  height: 450px; 
+  height: 450px;
+  font-family: 'Poppins';
 }
 
 .upload-container::-webkit-scrollbar {
-  width: 8px; 
+  width: 8px;
 }
 
 .upload-container::-webkit-scrollbar-thumb:hover {
@@ -21,12 +22,12 @@ body {
 }
 
 .upload-container::-webkit-scrollbar-thumb {
-  background: #ccc; 
-  border-radius: 10px; 
+  background: #ccc;
+  border-radius: 10px;
 }
 
 .upload-container::-webkit-scrollbar-track {
-  background: transparent; 
+  background: transparent;
 }
 
 .input-container {
@@ -87,9 +88,9 @@ button:hover {
   cursor: pointer;
   padding: 15px 30px;
   transition: background-color 0.3s ease;
-  margin: 10px auto; 
+  margin: 10px auto;
   display: block;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
 
 #remove-file:hover {

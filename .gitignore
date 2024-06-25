@@ -1,11 +1,4 @@
-# Django specific ignores
-*.log
-*.pot
-*.pyc
-__pycache__/
-local_settings.py
+Sign_Language_Converter\settings.py
 db.sqlite3
-backend/media/
-
-# Ignore environment files
+media/uploads
 .env
