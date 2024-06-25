@@ -1,0 +1,7 @@
+Django
+torch
+opencv-python
+ultralytics
+numpy
+rest-framework
+django-cors-headers
