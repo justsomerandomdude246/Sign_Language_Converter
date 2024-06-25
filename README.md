@@ -83,7 +83,7 @@ Here's an example of an annotated image with detected sign language gesture:
 
 ## Dataset
 
-In this project I used a dataset made by David Lee named American Sign Language Letters Dataset.
+In this project I used a dataset made by David Lee named American Sign Language Letters Dataset.   <br />
 Link- `https://public.roboflow.com/object-detection/american-sign-language-letters`
 
 ## Contributing
