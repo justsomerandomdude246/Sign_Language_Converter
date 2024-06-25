@@ -81,6 +81,11 @@ Here's an example of an annotated image with detected sign language gesture:
 - `frontend/`: Contains the React-based web interface for uploading media and displaying results.
 - `requirements.txt`: Lists the Python dependencies required for the project.
 
+## Dataset
+
+In this project I used a dataset made by David Lee named American Sign Language Letters Dataset.
+Link- `https://public.roboflow.com/object-detection/american-sign-language-letters`
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
