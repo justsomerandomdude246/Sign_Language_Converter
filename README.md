@@ -15,25 +15,18 @@ Here's an example of an annotated image with detected sign language gesture:
     cd sign-language-converter
     ```
 
-2. **Install the required dependencies**:
+2. **Make the Docker image**:
     ```sh
-    pip install -r requirements.txt
+    docker-compose build
     ```
 
 ## Usage
 
 1. **Run the Backend Server**:
     ```sh
-    python manage.py runserver
+    docker-compose up
     ```
-
-2. **Open the Frontend**:
-    - Navigate to the `frontend` directory and start your React development server:
-    ```sh
-    cd frontend
-    npm start
-    ```
-
+    
 3. **Upload Media**:
     - Use the web interface to upload images or videos containing sign language gestures.
     - The results will be displayed with annotations and converted text.
@@ -77,7 +70,7 @@ Here's an example of an annotated image with detected sign language gesture:
 
 ## Project Structure
 
-- `backend/`: Contains the server-side code and YOLOv8 model processing.
+- `Sign_Language_Converter/`: Contains the server-side code (django backend) and YOLOv8 model processing.
 - `frontend/`: Contains the React-based web interface for uploading media and displaying results.
 - `requirements.txt`: Lists the Python dependencies required for the project.
 
