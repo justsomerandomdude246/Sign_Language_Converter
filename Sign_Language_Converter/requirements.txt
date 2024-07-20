@@ -1,6 +1,6 @@
-Django==5.0.6
-opencv-python==4.10.0.82
-ultralytics==8.2.31
-numpy==1.26.3
-djangorestframework==3.15.1
-django-cors-headers==4.3.1
+Django>=5.0.7
+opencv-python>=4.10.1.78
+ultralytics>=8.2.33
+numpy>=1.26.4
+djangorestframework>=3.15.1
+django-cors-headers>=4.3.1
