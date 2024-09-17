@@ -12,7 +12,7 @@ Here's an example of an annotated image with detected sign language gesture:
 1. **Clone the repository**:
     ```sh
     git clone https://github.com/justsomerandomdude264/Sign_Language_Converter.git
-    cd sign-language-converter
+    cd Sign_Language_Converter
     ```
 
 2. **Make the Docker image**:
