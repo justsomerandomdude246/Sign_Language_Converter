@@ -28,7 +28,7 @@ Here's an example of an annotated image with detected sign language gesture:
     ```
     
 3. **Upload Media**:
-    - Use the web interface to upload images or videos containing sign language gestures or use the images in the `test_images`.
+    - Use the web interface to upload images or videos containing sign language gestures or use the images in the `test_images` folder.
     - The results will be displayed with annotations and converted text.
 
 ## How It Works
