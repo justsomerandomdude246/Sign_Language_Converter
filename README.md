@@ -28,7 +28,7 @@ Here's an example of an annotated image with detected sign language gesture:
     ```
     
 3. **Upload Media**:
-    - Use the web interface to upload images or videos containing sign language gestures.
+    - Use the web interface to upload images or videos containing sign language gestures or use the images in the `test_images`.
     - The results will be displayed with annotations and converted text.
 
 ## How It Works
@@ -72,7 +72,7 @@ Here's an example of an annotated image with detected sign language gesture:
 
 - `Sign_Language_Converter/`: Contains the server-side code (django backend) and YOLOv8 model processing.
 - `frontend/`: Contains the React-based web interface for uploading media and displaying results.
-- `requirements.txt`: Lists the Python dependencies required for the project.
+- `test_images/`: Includes three images to test the program out.
 
 ## Dataset
 
